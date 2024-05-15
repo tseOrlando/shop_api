@@ -1,0 +1,6 @@
+database:
+  host: localhost     # database hostname or IP address
+  port: 3306          # database port
+  user: dam_app       # database username
+  password: '1234'    # database password
+  name: shop          # database name
